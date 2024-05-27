@@ -10,10 +10,10 @@ exports.handler = async (event) => {
         };
     }
 
-    const sum = num1 + num2;
+    const product = num1 * num2;
 
     return {
         statusCode: 200,
-        body: JSON.stringify({ sum: sum })
+        body: JSON.stringify({ product: product })
     };
 };

@@ -1,1 +1,1 @@
-{"statusCode":200,"body":"{\"sum\":30}"}
+{"statusCode":200,"body":"{\"product\":200}"}
